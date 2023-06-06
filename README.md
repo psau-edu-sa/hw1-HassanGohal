@@ -1,2 +1,2 @@
 # hw1-HassanGohal
-In this article,we aim to identify the key features that are crucial for assessing the quality of a website using software engineering techniques. We have provided clear answers to various questions to ensure that the content is easily comprehensible for everyone. Our goal is to provide you with valuable insights and address any queries you may have. We hope you find this article informative and helpful.
+The topic of our report will be the Instagram app We will show you many important software engineering requirements, and there will be an explanation for each requirement We hope you enjoy reading and benefiting from the report
